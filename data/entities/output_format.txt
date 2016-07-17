@@ -1,0 +1,12 @@
+Format de sortie de processing
+- Timestamp
+- Entités
+	Pays 1 : null ou Pays (in PAYS_norm.txt)
+	Pays 2 : null ou Pays  (in PAYS_norm.txt)
+	Joueur 1 : null ou Joueur (in PLAYERS_norm.txt)
+	Joueur 2 : null ou Joueur (in PLAYERS_norm.txt)
+	Type1 : null ou une valeur dans {D1P, F1P, D2P, F2P, BUT, TIR, CJA, CRO, CGT, PEN}
+	Type2 : null ou une valeur dans {D1P, F1P, D2P, F2P, BUT, TIR, CJA, CRO, CGT, PEN}
+	Type3 : null ou une valeur dans {D1P, F1P, D2P, F2P, BUT, TIR, CJA, CRO, CGT, PEN}
+	Type4 : null ou une valeur dans {D1P, F1P, D2P, F2P, BUT, TIR, CJA, CRO, CGT, PEN}
+- Tweeto

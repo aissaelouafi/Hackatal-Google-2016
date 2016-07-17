@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import os
+def Annotate(twitter, dict):
+    twitter = str.lower(twitter)
+    for entry in dict:
+        if (" " in entry) :
+            if (entry in twitter):
+                return True
+        else:
+            words = str.split(entry," ")
+            if(words.__contains__(entry)):
+                return True
+    return False
+
+def LoadDict(filepath):
+    dict=[]
+    try:
+        dict = open(filepath).readlines()
+        dict = [x.strip().lower() for x in dict]
+    except Exception, e:
+        print e
+    return dict
+

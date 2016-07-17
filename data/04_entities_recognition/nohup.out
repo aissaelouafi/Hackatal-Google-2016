@@ -1,0 +1,378 @@
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Galles_2016-06-16_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Pologne_2016-06-16_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Russie_2016-06-11_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Ukraine_2016-06-12_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Pologne_Irlande~du~Nord_2016-06-12_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Galles_Slovaquie_2016-06-11_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/République-tchèque_Croatie_2016-06-17_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Russie_Slovaquie_2016-06-15_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Ukraine_Irlande~du~Nord_2016-06-16_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Turquie_Croatie_2016-06-12_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_République~tchèque_2016-06-13_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_Turquie_2016-06-17_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Pologne_2016-06-16_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/République-tchèque_Croatie_2016-06-17_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Turquie_Croatie_2016-06-12_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Albanie_2016-06-15_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Galles_2016-06-16_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Ukraine_2016-06-12_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Pologne_Irlande~du~Nord_2016-06-12_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Russie_2016-06-11_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Ukraine_Irlande~du~Nord_2016-06-16_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Galles_Slovaquie_2016-06-11_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Russie_Slovaquie_2016-06-15_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_Italie_2016-06-13_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Autriche_Hongrie_2016-06-14_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Islande_Hongrie_2016-06-18_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_République~d-Irlande_2016-06-18_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Italie_Suède_2016-06-17_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/République-d-Irlande_Suède_2016-06-13_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Autriche_2016-06-18_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Islande_2016-06-14_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_Italie_2016-06-13_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Autriche_Hongrie_2016-06-14_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_République~d-Irlande_2016-06-18_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Islande_Hongrie_2016-06-18_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Italie_Suède_2016-06-17_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Autriche_2016-06-18_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/République-d-Irlande_Suède_2016-06-13_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Islande_2016-06-14_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.filtered.norm.tsv
+./run_recognition.sh: line 11: 70130 Terminated: 15          $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.filtered.norm.tsv
+Traceback (most recent call last):
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 145, in <module>
+    main()
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 22, in main
+    dictEntities = LoadDictGeneralMethod(entityDataDir)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 100, in LoadDictGeneralMethod
+    LoadDictForEachLang("ar",filepathAr,dict)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 128, in LoadDictForEachLang
+    print >> sys.stderr, dict
+TypeError: unsupported operand type(s) for >>: 'builtin_function_or_method' and '_io.TextIOWrapper'
+Traceback (most recent call last):
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 145, in <module>
+    main()
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 22, in main
+    dictEntities = LoadDictGeneralMethod(entityDataDir)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 100, in LoadDictGeneralMethod
+    LoadDictForEachLang("ar",filepathAr,dict)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 128, in LoadDictForEachLang
+    print >> sys.stderr, dict
+TypeError: unsupported operand type(s) for >>: 'builtin_function_or_method' and '_io.TextIOWrapper'
+Traceback (most recent call last):
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 145, in <module>
+    main()
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 22, in main
+    dictEntities = LoadDictGeneralMethod(entityDataDir)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 100, in LoadDictGeneralMethod
+    LoadDictForEachLang("ar",filepathAr,dict)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 128, in LoadDictForEachLang
+    print >> sys.stderr, dict
+TypeError: unsupported operand type(s) for >>: 'builtin_function_or_method' and '_io.TextIOWrapper'
+Traceback (most recent call last):
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 145, in <module>
+    main()
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 22, in main
+    dictEntities = LoadDictGeneralMethod(entityDataDir)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 100, in LoadDictGeneralMethod
+    LoadDictForEachLang("ar",filepathAr,dict)
+  File "/Users/Cocophotos/Universite/PostDoc/Geneve2016-2017/Softwares/rocketlabs/data/04_entities_recognition/entities_match.py", line 128, in LoadDictForEachLang
+    print >> sys.stderr, dict
+TypeError: unsupported operand type(s) for >>: 'builtin_function_or_method' and '_io.TextIOWrapper'
+find: ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_: No such file or directory
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Galles_2016-06-16_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Pologne_2016-06-16_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Russie_2016-06-11_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Galles_Slovaquie_2016-06-11_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Ukraine_2016-06-12_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Russie_Slovaquie_2016-06-15_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Pologne_Irlande~du~Nord_2016-06-12_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/République-tchèque_Croatie_2016-06-17_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Ukraine_Irlande~du~Nord_2016-06-16_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Turquie_Croatie_2016-06-12_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_République~tchèque_2016-06-13_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_Turquie_2016-06-17_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Pologne_2016-06-16_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/République-tchèque_Croatie_2016-06-17_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Albanie_2016-06-15_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Turquie_Croatie_2016-06-12_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Galles_2016-06-16_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Ukraine_2016-06-12_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Pologne_Irlande~du~Nord_2016-06-12_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Russie_2016-06-11_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/République-tchèque_Croatie_2016-06-17_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Turquie_Croatie_2016-06-12_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Galles_Slovaquie_2016-06-11_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_République~tchèque_2016-06-13_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Ukraine_Irlande~du~Nord_2016-06-16_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_Turquie_2016-06-17_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/République-tchèque_Croatie_2016-06-17_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Russie_Slovaquie_2016-06-15_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Turquie_Croatie_2016-06-12_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_Italie_2016-06-13_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Autriche_Hongrie_2016-06-14_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_République~d-Irlande_2016-06-18_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Islande_Hongrie_2016-06-18_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Italie_Suède_2016-06-17_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/République-d-Irlande_Suède_2016-06-13_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Autriche_2016-06-18_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Islande_2016-06-14_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_Italie_2016-06-13_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Autriche_Hongrie_2016-06-14_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_République~d-Irlande_2016-06-18_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Islande_Hongrie_2016-06-18_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Italie_Suède_2016-06-17_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Autriche_2016-06-18_21h_en.filtered.norm.tsv
+find: ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_: No such file or directory
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/République-d-Irlande_Suède_2016-06-13_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Islande_2016-06-14_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/ar/Roumanie_Albanie_2016-06-19_21h_ar.filtered.norm.tsv
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78405 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78407 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78418 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78419 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78420 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.filtered.norm.tsv
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78626 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78627 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 78628 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/ar/Russie_Galles_2016-06-20_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/ar/Irlande-du-Nord_Allemagne_2016-06-21_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.filtered.norm.tsv
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 79204 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 79206 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Fatal Python error: Py_Initialize: can't initialize sys standard streams
+OSError: [Errno 9] Bad file descriptor
+./run_recognition.sh: line 11: 79207 Abort trap: 6           $SCRIPTPATH/entities_match.py -i $file -e $ENTITY -s $STR -r $REPL
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/ar/Ukraine_Pologne_2016-06-21_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/ar/Slovaquie_Angleterre_2016-06-20_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/en/Irlande-du-Nord_Allemagne_2016-06-21_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/en/Russie_Galles_2016-06-20_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/en/Ukraine_Pologne_2016-06-21_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/en/Slovaquie_Angleterre_2016-06-20_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/fr/Irlande-du-Nord_Allemagne_2016-06-21_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/fr/Russie_Galles_2016-06-20_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/fr/Ukraine_Pologne_2016-06-21_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/fr/Slovaquie_Angleterre_2016-06-20_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/ar/Roumanie_Albanie_2016-06-19_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/ar/Croatie_Espagne_2016-06-21_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/ar/Italie_République~d-Irlande_2016-06-22_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/ar/Suisse_France_2016-06-19_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/ar/Hongrie_Portugal_2016-06-22_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/ar/République-Tchèque_Turquie_2016-06-21_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/ar/Suède_Belgique_2016-06-22_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/en/Roumanie_Albanie_2016-06-19_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/ar/Islande_Autriche_2016-06-22_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/en/Italie_République~d-Irlande_2016-06-22_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/en/Croatie_Espagne_2016-06-21_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/en/Hongrie_Portugal_2016-06-22_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/en/Suisse_France_2016-06-19_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/en/Suède_Belgique_2016-06-22_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/en/République-Tchèque_Turquie_2016-06-21_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/en/Islande_Autriche_2016-06-22_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/fr/Roumanie_Albanie_2016-06-19_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/fr/Italie_République~d-Irlande_2016-06-22_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/fr/Suisse_France_2016-06-19_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/fr/Croatie_Espagne_2016-06-21_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/fr/Hongrie_Portugal_2016-06-22_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/fr/Suède_Belgique_2016-06-22_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/fr/Islande_Autriche_2016-06-22_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/fr/République-Tchèque_Turquie_2016-06-21_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Autriche_Hongrie_2016-06-14_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Pologne_2016-06-16_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_Italie_2016-06-13_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Galles_2016-06-16_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Islande_Hongrie_2016-06-18_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Ukraine_2016-06-12_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_République~d-Irlande_2016-06-18_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Russie_2016-06-11_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Pologne_Irlande~du~Nord_2016-06-12_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Italie_Suède_2016-06-17_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/République-tchèque_Croatie_2016-06-17_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Galles_Slovaquie_2016-06-11_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Autriche_2016-06-18_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/République-d-Irlande_Suède_2016-06-13_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Ukraine_Irlande~du~Nord_2016-06-16_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Russie_Slovaquie_2016-06-15_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Turquie_Croatie_2016-06-12_15h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Islande_2016-06-14_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_République~tchèque_2016-06-13_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_Turquie_2016-06-17_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Autriche_Hongrie_2016-06-14_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_Italie_2016-06-13_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/République-tchèque_Croatie_2016-06-17_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Pologne_2016-06-16_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_République~d-Irlande_2016-06-18_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Islande_Hongrie_2016-06-18_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Italie_Suède_2016-06-17_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Autriche_2016-06-18_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Turquie_Croatie_2016-06-12_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Galles_2016-06-16_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Albanie_2016-06-15_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Islande_2016-06-14_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Ukraine_2016-06-12_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/République-d-Irlande_Suède_2016-06-13_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Pologne_Irlande~du~Nord_2016-06-12_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Russie_2016-06-11_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Ukraine_Irlande~du~Nord_2016-06-16_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Galles_Slovaquie_2016-06-11_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Russie_Slovaquie_2016-06-15_15h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/ar/Irlande-du-Nord_Allemagne_2016-06-21_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/ar/Roumanie_Albanie_2016-06-19_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/ar/Russie_Galles_2016-06-20_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/ar/Italie_République~d-Irlande_2016-06-22_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/ar/Croatie_Espagne_2016-06-21_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/ar/Hongrie_Portugal_2016-06-22_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/ar/Ukraine_Pologne_2016-06-21_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/ar/Suisse_France_2016-06-19_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/ar/Suède_Belgique_2016-06-22_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/ar/Slovaquie_Angleterre_2016-06-20_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/ar/République-Tchèque_Turquie_2016-06-21_21h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/ar/Islande_Autriche_2016-06-22_18h_ar.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/en/Irlande-du-Nord_Allemagne_2016-06-21_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/en/Italie_République~d-Irlande_2016-06-22_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/en/Roumanie_Albanie_2016-06-19_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/en/Hongrie_Portugal_2016-06-22_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/en/Russie_Galles_2016-06-20_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/en/Croatie_Espagne_2016-06-21_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/en/Ukraine_Pologne_2016-06-21_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/en/Suède_Belgique_2016-06-22_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/en/Islande_Autriche_2016-06-22_18h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/en/Suisse_France_2016-06-19_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/en/République-Tchèque_Turquie_2016-06-21_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/en/Slovaquie_Angleterre_2016-06-20_21h_en.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/fr/Italie_République~d-Irlande_2016-06-22_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/fr/Irlande-du-Nord_Allemagne_2016-06-21_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/fr/Roumanie_Albanie_2016-06-19_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/fr/Hongrie_Portugal_2016-06-22_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/fr/Croatie_Espagne_2016-06-21_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/fr/Russie_Galles_2016-06-20_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/fr/Suède_Belgique_2016-06-22_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_A/fr/Suisse_France_2016-06-19_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/fr/Ukraine_Pologne_2016-06-21_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/fr/Islande_Autriche_2016-06-22_18h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/fr/République-Tchèque_Turquie_2016-06-21_21h_fr.filtered.norm.tsv
+Recognizing in ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/fr/Slovaquie_Angleterre_2016-06-20_21h_fr.filtered.norm.tsv

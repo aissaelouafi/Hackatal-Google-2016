@@ -1,0 +1,13 @@
+node_modules/
+bower_components/
+public/fonts/
+public/css/
+public/js/*bundle*
+public/js/*vendor*
+public/img/uploads/*
+!public/img/uploads/.gitkeep
+*.swp
+*.pyc
+*.o
+*.log
+*.tar

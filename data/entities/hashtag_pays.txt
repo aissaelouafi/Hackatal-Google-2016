@@ -1,0 +1,34 @@
+frasui	EN	france	suisse
+suifra	EN	suisse	france
+frnsa_swysra	AR	france	suisse
+swysra_frnsa	AR	suisse	france
+anjltra_slwfakya	AR	angleterre	slovaquie
+engslo	EN	angleterre	slovenie
+eng	EN	angleterre
+ruswal	EN	russie	pays de galles
+almanya_ayrlnda	AR	allemagne	irlande du nord
+alahly	AR	allemagne	irlande du nord
+nirger	EN	irlande du nord	allemagne
+nir	EN	irlande du nord	
+asbanya_krwatya	AR	espagne	croatie
+esp	EN	espagne
+esp	FR	espagne
+croesp	EN	coratie	espagne
+isl	EN	islande
+isl	FR	islande
+aytalya_ayrlnda	AR	italie	irlande du nord
+swebel	EN	suede	belgique
+suebel	FR	suede	belgique
+irl	EN	irlande du nord
+irl	FR	irlande du nord
+islaut	FR	islande	autriche
+albrtral_almjr	AR	portugal	hongrie
+hun	EN	hongrie
+por	EN	portugal
+por	FR	portugal
+hunpor	EN	hongrie	portugal
+roualb	EN	roumanie	albanie
+tur	AR	turquie
+krwatya	AR	croatie
+asbanya	AR	espagne
+ukrpol	EN	ukraine	pologne

@@ -1,0 +1,755 @@
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_Italie_2016-06-13_21h_ar.json
+Number of tweets before filtering: 25420
+Number of tweets after filtering: 14023
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_République~d-Irlande_2016-06-18_15h_ar.json
+Number of tweets before filtering: 26577
+Number of tweets after filtering: 14590
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Italie_Suède_2016-06-17_15h_ar.json
+Number of tweets before filtering: 18380
+Number of tweets after filtering: 8325
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/République-d-Irlande_Suède_2016-06-13_18h_ar.json
+Number of tweets before filtering: 15537
+Number of tweets after filtering: 8002
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_Italie_2016-06-13_21h_en.json
+Number of tweets before filtering: 98148
+Number of tweets after filtering: 61495
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_République~d-Irlande_2016-06-18_15h_en.json
+Number of tweets before filtering: 30599
+Number of tweets after filtering: 17130
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Italie_Suède_2016-06-17_15h_en.json
+Number of tweets before filtering: 60210
+Number of tweets after filtering: 21451
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/République-d-Irlande_Suède_2016-06-13_18h_en.json
+Number of tweets before filtering: 92903
+Number of tweets after filtering: 52897
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.json
+Number of tweets before filtering: 107005
+Number of tweets after filtering: 65986
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.json
+Number of tweets before filtering: 37795
+Number of tweets after filtering: 20667
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.json
+Number of tweets before filtering: 31616
+Number of tweets after filtering: 13893
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.json
+Number of tweets before filtering: 47938
+Number of tweets after filtering: 24621
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Pologne_2016-06-16_21h_ar.json
+Number of tweets before filtering: 26169
+Number of tweets after filtering: 13261
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Ukraine_2016-06-12_21h_ar.json
+Number of tweets before filtering: 22069
+Number of tweets after filtering: 15663
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Pologne_Irlande~du~Nord_2016-06-12_18h_ar.json
+Number of tweets before filtering: 13123
+Number of tweets after filtering: 5327
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Ukraine_Irlande~du~Nord_2016-06-16_18h_ar.json
+Number of tweets before filtering: 17464
+Number of tweets after filtering: 10491
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Pologne_2016-06-16_21h_en.json
+Number of tweets before filtering: 127243
+Number of tweets after filtering: 69543
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Ukraine_2016-06-12_21h_en.json
+Number of tweets before filtering: 109617
+Number of tweets after filtering: 80761
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Pologne_Irlande~du~Nord_2016-06-12_18h_en.json
+Number of tweets before filtering: 61046
+Number of tweets after filtering: 25692
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Ukraine_Irlande~du~Nord_2016-06-16_18h_en.json
+Number of tweets before filtering: 135627
+Number of tweets after filtering: 74893
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.json
+Number of tweets before filtering: 61929
+Number of tweets after filtering: 33845
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.json
+Number of tweets before filtering: 70943
+Number of tweets after filtering: 51346
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.json
+Number of tweets before filtering: 53644
+Number of tweets after filtering: 20159
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.json
+Number of tweets before filtering: 48570
+Number of tweets after filtering: 27226
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Galles_2016-06-16_15h_ar.json
+Number of tweets before filtering: 27052
+Number of tweets after filtering: 16099
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Russie_2016-06-11_21h_ar.json
+Number of tweets before filtering: 21462
+Number of tweets after filtering: 14781
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Galles_Slovaquie_2016-06-11_18h_ar.json
+Number of tweets before filtering: 17109
+Number of tweets after filtering: 9297
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Russie_Slovaquie_2016-06-15_15h_ar.json
+Number of tweets before filtering: 12289
+Number of tweets after filtering: 7858
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Galles_2016-06-16_15h_en.json
+Number of tweets before filtering: 219472
+Number of tweets after filtering: 136141
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Russie_2016-06-11_21h_en.json
+Number of tweets before filtering: 112887
+Number of tweets after filtering: 74595
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Galles_Slovaquie_2016-06-11_18h_en.json
+Number of tweets before filtering: 93628
+Number of tweets after filtering: 52551
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Russie_Slovaquie_2016-06-15_15h_en.json
+Number of tweets before filtering: 101306
+Number of tweets after filtering: 66575
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.json
+Number of tweets before filtering: 46058
+Number of tweets after filtering: 29414
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.json
+Number of tweets before filtering: 67939
+Number of tweets after filtering: 46784
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.json
+Number of tweets before filtering: 58127
+Number of tweets after filtering: 32959
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.json
+Number of tweets before filtering: 36701
+Number of tweets after filtering: 24111
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr_SO.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.json
+Number of tweets before filtering: 21455
+Number of tweets after filtering: 11091
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.json
+Number of tweets before filtering: 26761
+Traceback (most recent call last):
+  File "./filter_tweets.py", line 172, in <module>
+    main()
+  File "./filter_tweets.py", line 164, in main
+    tweets = filter_by_timestamp(tweets, tid, gmt_times_files[my_tsv_file], span)
+KeyError: '../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr'
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.json
+Number of tweets before filtering: 14505
+Number of tweets after filtering: 9912
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.json
+Number of tweets before filtering: 25810
+Number of tweets after filtering: 16673
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.json
+Number of tweets before filtering: 30424
+Number of tweets after filtering: 21003
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.json
+Number of tweets before filtering: 14847
+Number of tweets after filtering: 10589
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.json
+Number of tweets before filtering: 61967
+Number of tweets after filtering: 42132
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Albanie_2016-06-15_21h_en.json
+Number of tweets before filtering: 139820
+Number of tweets after filtering: 89192
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.json
+Number of tweets before filtering: 120465
+Number of tweets after filtering: 83702
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.json
+Number of tweets before filtering: 98293
+Number of tweets after filtering: 72122
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.json
+Number of tweets before filtering: 47302
+Number of tweets after filtering: 31843
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.json
+Number of tweets before filtering: 135907
+Number of tweets after filtering: 87088
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.json
+Number of tweets before filtering: 187269
+Number of tweets after filtering: 128437
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.json
+Number of tweets before filtering: 51525
+Number of tweets after filtering: 37198
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Autriche_Hongrie_2016-06-14_18h_ar.json
+Number of tweets before filtering: 12418
+Number of tweets after filtering: 8970
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Islande_Hongrie_2016-06-18_18h_ar.json
+Number of tweets before filtering: 21351
+Number of tweets after filtering: 14271
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Autriche_2016-06-18_21h_ar.json
+Number of tweets before filtering: 30405
+Number of tweets after filtering: 20013
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Islande_2016-06-14_21h_ar.json
+Number of tweets before filtering: 21877
+Number of tweets after filtering: 13828
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Autriche_Hongrie_2016-06-14_18h_en.json
+Number of tweets before filtering: 63798
+Number of tweets after filtering: 48466
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Islande_Hongrie_2016-06-18_18h_en.json
+Number of tweets before filtering: 31616
+Number of tweets after filtering: 21820
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Autriche_2016-06-18_21h_en.json
+Number of tweets before filtering: 35705
+Number of tweets after filtering: 23659
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Islande_2016-06-14_21h_en.json
+Number of tweets before filtering: 78192
+Number of tweets after filtering: 49491
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.json
+Number of tweets before filtering: 44281
+Number of tweets after filtering: 32883
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.json
+Number of tweets before filtering: 29372
+Number of tweets after filtering: 20920
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.json
+Number of tweets before filtering: 36171
+Number of tweets after filtering: 24824
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.json
+Number of tweets before filtering: 80027
+Number of tweets after filtering: 50282
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Autriche_Hongrie_2016-06-14_18h_ar.json
+Number of tweets before filtering: 12418
+Number of tweets after filtering: 8970
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Islande_Hongrie_2016-06-18_18h_ar.json
+Number of tweets before filtering: 21351
+Number of tweets after filtering: 14271
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Autriche_2016-06-18_21h_ar.json
+Number of tweets before filtering: 30405
+Number of tweets after filtering: 20013
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Islande_2016-06-14_21h_ar.json
+Number of tweets before filtering: 21877
+Number of tweets after filtering: 13828
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Autriche_Hongrie_2016-06-14_18h_en.json
+Number of tweets before filtering: 63798
+Number of tweets after filtering: 48466
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Islande_Hongrie_2016-06-18_18h_en.json
+Number of tweets before filtering: 31616
+Number of tweets after filtering: 21820
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Autriche_2016-06-18_21h_en.json
+Number of tweets before filtering: 35705
+Number of tweets after filtering: 23659
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Islande_2016-06-14_21h_en.json
+Number of tweets before filtering: 78192
+Number of tweets after filtering: 49491
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.json
+Number of tweets before filtering: 44281
+Number of tweets after filtering: 32883
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.json
+Number of tweets before filtering: 29372
+Number of tweets after filtering: 20920
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.json
+Number of tweets before filtering: 36171
+Number of tweets after filtering: 24824
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.json
+Number of tweets before filtering: 80027
+Number of tweets after filtering: 50282
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.json
+Number of tweets before filtering: 21455
+Number of tweets after filtering: 11091
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.json
+Number of tweets before filtering: 26761
+Number of tweets after filtering: 16203
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/République-tchèque_Croatie_2016-06-17_18h_ar.json
+Number of tweets before filtering: 19084
+Number of tweets after filtering: 11644
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Turquie_Croatie_2016-06-12_15h_ar.json
+Number of tweets before filtering: 17742
+Number of tweets after filtering: 11363
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_République~tchèque_2016-06-13_15h_en.json
+Number of tweets before filtering: 54640
+Number of tweets after filtering: 30531
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_Turquie_2016-06-17_21h_en.json
+Number of tweets before filtering: 30113
+Number of tweets after filtering: 18622
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/République-tchèque_Croatie_2016-06-17_18h_en.json
+Number of tweets before filtering: 29769
+Number of tweets after filtering: 17864
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Turquie_Croatie_2016-06-12_15h_en.json
+Number of tweets before filtering: 68209
+Number of tweets after filtering: 41391
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.json
+Number of tweets before filtering: 43117
+Number of tweets after filtering: 24657
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.json
+Number of tweets before filtering: 36936
+Number of tweets after filtering: 21647
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.json
+Number of tweets before filtering: 40181
+Number of tweets after filtering: 24101
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.json
+Number of tweets before filtering: 77743
+Number of tweets after filtering: 48683
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_Italie_2016-06-13_21h_ar.json
+Number of tweets before filtering: 25420
+Number of tweets after filtering: 14023
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_République~d-Irlande_2016-06-18_15h_ar.json
+Number of tweets before filtering: 26577
+Number of tweets after filtering: 14590
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Italie_Suède_2016-06-17_15h_ar.json
+Number of tweets before filtering: 18380
+Number of tweets after filtering: 8325
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/République-d-Irlande_Suède_2016-06-13_18h_ar.json
+Number of tweets before filtering: 15537
+Number of tweets after filtering: 8002
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_Italie_2016-06-13_21h_en.json
+Number of tweets before filtering: 98148
+Number of tweets after filtering: 61495
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_République~d-Irlande_2016-06-18_15h_en.json
+Number of tweets before filtering: 30599
+Number of tweets after filtering: 17130
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Italie_Suède_2016-06-17_15h_en.json
+Number of tweets before filtering: 60210
+Number of tweets after filtering: 21451
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/République-d-Irlande_Suède_2016-06-13_18h_en.json
+Number of tweets before filtering: 92903
+Number of tweets after filtering: 52897
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.json
+Number of tweets before filtering: 107005
+Number of tweets after filtering: 65986
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.json
+Number of tweets before filtering: 37795
+Number of tweets after filtering: 20667
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.json
+Number of tweets before filtering: 31616
+Number of tweets after filtering: 13893
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.json
+Number of tweets before filtering: 47938
+Number of tweets after filtering: 24621
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Pologne_2016-06-16_21h_ar.json
+Number of tweets before filtering: 26169
+Number of tweets after filtering: 13261
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Ukraine_2016-06-12_21h_ar.json
+Number of tweets before filtering: 22069
+Number of tweets after filtering: 15663
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Pologne_Irlande~du~Nord_2016-06-12_18h_ar.json
+Number of tweets before filtering: 13123
+Number of tweets after filtering: 5327
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Ukraine_Irlande~du~Nord_2016-06-16_18h_ar.json
+Number of tweets before filtering: 17464
+Number of tweets after filtering: 10491
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Pologne_2016-06-16_21h_en.json
+Number of tweets before filtering: 127243
+Number of tweets after filtering: 69543
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Ukraine_2016-06-12_21h_en.json
+Number of tweets before filtering: 109617
+Number of tweets after filtering: 80761
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Pologne_Irlande~du~Nord_2016-06-12_18h_en.json
+Number of tweets before filtering: 61046
+Number of tweets after filtering: 25692
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Ukraine_Irlande~du~Nord_2016-06-16_18h_en.json
+Number of tweets before filtering: 135627
+Number of tweets after filtering: 74893
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.json
+Number of tweets before filtering: 61929
+Number of tweets after filtering: 33845
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.json
+Number of tweets before filtering: 70943
+Number of tweets after filtering: 51346
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.json
+Number of tweets before filtering: 53644
+Number of tweets after filtering: 20159
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.json
+Number of tweets before filtering: 48570
+Number of tweets after filtering: 27226
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Galles_2016-06-16_15h_ar.json
+Number of tweets before filtering: 27052
+Number of tweets after filtering: 16099
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Russie_2016-06-11_21h_ar.json
+Number of tweets before filtering: 21462
+Number of tweets after filtering: 14781
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Galles_Slovaquie_2016-06-11_18h_ar.json
+Number of tweets before filtering: 17109
+Number of tweets after filtering: 9297
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Russie_Slovaquie_2016-06-15_15h_ar.json
+Number of tweets before filtering: 12289
+Number of tweets after filtering: 7858
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Galles_2016-06-16_15h_en.json
+Number of tweets before filtering: 219472
+Number of tweets after filtering: 136141
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Russie_2016-06-11_21h_en.json
+Number of tweets before filtering: 112887
+Number of tweets after filtering: 74595
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Galles_Slovaquie_2016-06-11_18h_en.json
+Number of tweets before filtering: 93628
+Number of tweets after filtering: 52551
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Russie_Slovaquie_2016-06-15_15h_en.json
+Number of tweets before filtering: 101306
+Number of tweets after filtering: 66575
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.json
+Number of tweets before filtering: 46058
+Number of tweets after filtering: 29414
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.json
+Number of tweets before filtering: 67939
+Number of tweets after filtering: 46784
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.json
+Number of tweets before filtering: 58127
+Number of tweets after filtering: 32959
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.json
+Number of tweets before filtering: 36701
+Number of tweets after filtering: 24111
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.json
+Number of tweets before filtering: 14505
+Number of tweets after filtering: 9912
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.json
+Number of tweets before filtering: 25810
+Number of tweets after filtering: 16673
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.json
+Number of tweets before filtering: 30424
+Number of tweets after filtering: 21003
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.json
+Number of tweets before filtering: 14847
+Number of tweets after filtering: 10589
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.json
+Number of tweets before filtering: 61967
+Number of tweets after filtering: 42132
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Albanie_2016-06-15_21h_en.json
+Number of tweets before filtering: 139820
+Number of tweets after filtering: 89192
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.json
+Number of tweets before filtering: 120465
+Number of tweets after filtering: 83702
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.json
+Number of tweets before filtering: 98293
+Number of tweets after filtering: 72122
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.json
+Number of tweets before filtering: 47302
+Number of tweets after filtering: 31843
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.json
+Number of tweets before filtering: 135907
+Number of tweets after filtering: 87088
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.json
+Number of tweets before filtering: 187269
+Number of tweets after filtering: 128437
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.json
+Number of tweets before filtering: 51525
+Number of tweets after filtering: 37198
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_République~tchèque_2016-06-13_15h_ar.json
+Number of tweets before filtering: 21455
+Number of tweets after filtering: 11091
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Espagne_Turquie_2016-06-17_21h_ar.json
+Number of tweets before filtering: 26761
+Number of tweets after filtering: 16203
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/République-tchèque_Croatie_2016-06-17_18h_ar.json
+Number of tweets before filtering: 19084
+Number of tweets after filtering: 11644
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/ar/Turquie_Croatie_2016-06-12_15h_ar.json
+Number of tweets before filtering: 17742
+Number of tweets after filtering: 11363
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_République~tchèque_2016-06-13_15h_en.json
+Number of tweets before filtering: 54640
+Number of tweets after filtering: 30531
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Espagne_Turquie_2016-06-17_21h_en.json
+Number of tweets before filtering: 30113
+Number of tweets after filtering: 18622
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/République-tchèque_Croatie_2016-06-17_18h_en.json
+Number of tweets before filtering: 29769
+Number of tweets after filtering: 17864
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/en/Turquie_Croatie_2016-06-12_15h_en.json
+Number of tweets before filtering: 68209
+Number of tweets after filtering: 41391
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_République~tchèque_2016-06-13_15h_fr.json
+Number of tweets before filtering: 43117
+Number of tweets after filtering: 24657
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Espagne_Turquie_2016-06-17_21h_fr.json
+Number of tweets before filtering: 36936
+Number of tweets after filtering: 21647
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/République-tchèque_Croatie_2016-06-17_18h_fr.json
+Number of tweets before filtering: 40181
+Number of tweets after filtering: 24101
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_D/fr/Turquie_Croatie_2016-06-12_15h_fr.json
+Number of tweets before filtering: 77743
+Number of tweets after filtering: 48683
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Autriche_Hongrie_2016-06-14_18h_ar.json
+Number of tweets before filtering: 12418
+Number of tweets after filtering: 8970
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Islande_Hongrie_2016-06-18_18h_ar.json
+Number of tweets before filtering: 21351
+Number of tweets after filtering: 14271
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Autriche_2016-06-18_21h_ar.json
+Number of tweets before filtering: 30405
+Number of tweets after filtering: 20013
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/ar/Portugal_Islande_2016-06-14_21h_ar.json
+Number of tweets before filtering: 21877
+Number of tweets after filtering: 13828
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Autriche_Hongrie_2016-06-14_18h_en.json
+Number of tweets before filtering: 63798
+Number of tweets after filtering: 48466
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Islande_Hongrie_2016-06-18_18h_en.json
+Number of tweets before filtering: 31616
+Number of tweets after filtering: 21820
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Autriche_2016-06-18_21h_en.json
+Number of tweets before filtering: 35705
+Number of tweets after filtering: 23659
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/en/Portugal_Islande_2016-06-14_21h_en.json
+Number of tweets before filtering: 78192
+Number of tweets after filtering: 49491
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Autriche_Hongrie_2016-06-14_18h_fr.json
+Number of tweets before filtering: 44281
+Number of tweets after filtering: 32883
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Islande_Hongrie_2016-06-18_18h_fr.json
+Number of tweets before filtering: 29372
+Number of tweets after filtering: 20920
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Autriche_2016-06-18_21h_fr.json
+Number of tweets before filtering: 36171
+Number of tweets after filtering: 24824
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_F/fr/Portugal_Islande_2016-06-14_21h_fr.json
+Number of tweets before filtering: 80027
+Number of tweets after filtering: 50282
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_Italie_2016-06-13_21h_ar.json
+Number of tweets before filtering: 25420
+Number of tweets after filtering: 14023
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Belgique_République~d-Irlande_2016-06-18_15h_ar.json
+Number of tweets before filtering: 26577
+Number of tweets after filtering: 14590
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/Italie_Suède_2016-06-17_15h_ar.json
+Number of tweets before filtering: 18380
+Number of tweets after filtering: 8325
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/ar/République-d-Irlande_Suède_2016-06-13_18h_ar.json
+Number of tweets before filtering: 15537
+Number of tweets after filtering: 8002
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_Italie_2016-06-13_21h_en.json
+Number of tweets before filtering: 98148
+Number of tweets after filtering: 61495
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Belgique_République~d-Irlande_2016-06-18_15h_en.json
+Number of tweets before filtering: 30599
+Number of tweets after filtering: 17130
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/Italie_Suède_2016-06-17_15h_en.json
+Number of tweets before filtering: 60210
+Number of tweets after filtering: 21451
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/en/République-d-Irlande_Suède_2016-06-13_18h_en.json
+Number of tweets before filtering: 92903
+Number of tweets after filtering: 52897
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_Italie_2016-06-13_21h_fr.json
+Number of tweets before filtering: 107005
+Number of tweets after filtering: 65986
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Belgique_République~d-Irlande_2016-06-18_15h_fr.json
+Number of tweets before filtering: 37795
+Number of tweets after filtering: 20667
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/Italie_Suède_2016-06-17_15h_fr.json
+Number of tweets before filtering: 31616
+Number of tweets after filtering: 13893
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_E/fr/République-d-Irlande_Suède_2016-06-13_18h_fr.json
+Number of tweets before filtering: 47938
+Number of tweets after filtering: 24621
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Pologne_2016-06-16_21h_ar.json
+Number of tweets before filtering: 26169
+Number of tweets after filtering: 13261
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Allemagne_Ukraine_2016-06-12_21h_ar.json
+Number of tweets before filtering: 22069
+Number of tweets after filtering: 15663
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Pologne_Irlande~du~Nord_2016-06-12_18h_ar.json
+Number of tweets before filtering: 13123
+Number of tweets after filtering: 5327
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/ar/Ukraine_Irlande~du~Nord_2016-06-16_18h_ar.json
+Number of tweets before filtering: 17464
+Number of tweets after filtering: 10491
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Pologne_2016-06-16_21h_en.json
+Number of tweets before filtering: 127243
+Number of tweets after filtering: 69543
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Allemagne_Ukraine_2016-06-12_21h_en.json
+Number of tweets before filtering: 109617
+Number of tweets after filtering: 80761
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Pologne_Irlande~du~Nord_2016-06-12_18h_en.json
+Number of tweets before filtering: 61046
+Number of tweets after filtering: 25692
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/en/Ukraine_Irlande~du~Nord_2016-06-16_18h_en.json
+Number of tweets before filtering: 135627
+Number of tweets after filtering: 74893
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Pologne_2016-06-16_21h_fr.json
+Number of tweets before filtering: 61929
+Number of tweets after filtering: 33845
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Allemagne_Ukraine_2016-06-12_21h_fr.json
+Number of tweets before filtering: 70943
+Number of tweets after filtering: 51346
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Pologne_Irlande~du~Nord_2016-06-12_18h_fr.json
+Number of tweets before filtering: 53644
+Number of tweets after filtering: 20159
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_C/fr/Ukraine_Irlande~du~Nord_2016-06-16_18h_fr.json
+Number of tweets before filtering: 48570
+Number of tweets after filtering: 27226
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Galles_2016-06-16_15h_ar.json
+Number of tweets before filtering: 27052
+Number of tweets after filtering: 16099
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Angleterre_Russie_2016-06-11_21h_ar.json
+Number of tweets before filtering: 21462
+Number of tweets after filtering: 14781
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Galles_Slovaquie_2016-06-11_18h_ar.json
+Number of tweets before filtering: 17109
+Number of tweets after filtering: 9297
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/ar/Russie_Slovaquie_2016-06-15_15h_ar.json
+Number of tweets before filtering: 12289
+Number of tweets after filtering: 7858
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Galles_2016-06-16_15h_en.json
+Number of tweets before filtering: 219472
+Number of tweets after filtering: 136141
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Angleterre_Russie_2016-06-11_21h_en.json
+Number of tweets before filtering: 112887
+Number of tweets after filtering: 74595
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Galles_Slovaquie_2016-06-11_18h_en.json
+Number of tweets before filtering: 93628
+Number of tweets after filtering: 52551
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/en/Russie_Slovaquie_2016-06-15_15h_en.json
+Number of tweets before filtering: 101306
+Number of tweets after filtering: 66575
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Galles_2016-06-16_15h_fr.json
+Number of tweets before filtering: 46058
+Number of tweets after filtering: 29414
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Angleterre_Russie_2016-06-11_21h_fr.json
+Number of tweets before filtering: 67939
+Number of tweets after filtering: 46784
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Galles_Slovaquie_2016-06-11_18h_fr.json
+Number of tweets before filtering: 58127
+Number of tweets after filtering: 32959
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_B/fr/Russie_Slovaquie_2016-06-15_15h_fr.json
+Number of tweets before filtering: 36701
+Number of tweets after filtering: 24111
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.tsv
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Albanie_Suisse_2016-06-11_15h_ar.json
+Number of tweets before filtering: 14505
+Number of tweets after filtering: 9912
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Albanie_2016-06-15_21h_ar.json
+Number of tweets before filtering: 25810
+Number of tweets after filtering: 16673
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/France_Roumanie_2016-06-10_21h_ar.json
+Number of tweets before filtering: 30424
+Number of tweets after filtering: 21003
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/ar/Roumanie_Suisse_2016-06-15_18h_ar.json
+Number of tweets before filtering: 14847
+Number of tweets after filtering: 10589
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Albanie_Suisse_2016-06-11_15h_en.json
+Number of tweets before filtering: 61967
+Number of tweets after filtering: 42132
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Albanie_2016-06-15_21h_en.json
+Number of tweets before filtering: 139820
+Number of tweets after filtering: 89192
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/France_Roumanie_2016-06-10_21h_en.json
+Number of tweets before filtering: 120465
+Number of tweets after filtering: 83702
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/en/Roumanie_Suisse_2016-06-15_18h_en.json
+Number of tweets before filtering: 98293
+Number of tweets after filtering: 72122
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Albanie_Suisse_2016-06-11_15h_fr.json
+Number of tweets before filtering: 47302
+Number of tweets after filtering: 31843
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Albanie_2016-06-15_21h_fr.json
+Number of tweets before filtering: 135907
+Number of tweets after filtering: 87088
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/France_Roumanie_2016-06-10_21h_fr.json
+Number of tweets before filtering: 187269
+Number of tweets after filtering: 128437
+Analyzing ../../../hackatal/Tweets/Matchs/train_euro2016/Groupe_A/fr/Roumanie_Suisse_2016-06-15_18h_fr.json
+Number of tweets before filtering: 51525
+Number of tweets after filtering: 37198
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/ar/Irlande-du-Nord_Allemagne_2016-06-21_18h_ar.json
+Number of tweets before filtering: 16891
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/ar/Ukraine_Pologne_2016-06-21_18h_ar.json
+Number of tweets before filtering: 16891
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/en/Irlande-du-Nord_Allemagne_2016-06-21_18h_en.json
+Number of tweets before filtering: 27473
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/en/Ukraine_Pologne_2016-06-21_18h_en.json
+Number of tweets before filtering: 27473
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/fr/Irlande-du-Nord_Allemagne_2016-06-21_18h_fr.json
+Number of tweets before filtering: 37082
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_C/fr/Ukraine_Pologne_2016-06-21_18h_fr.json
+Number of tweets before filtering: 37082
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/ar/Italie_République~d-Irlande_2016-06-22_21h_ar.json
+Number of tweets before filtering: 25436
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/ar/Suède_Belgique_2016-06-22_21h_ar.json
+Number of tweets before filtering: 25436
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/en/Italie_République~d-Irlande_2016-06-22_21h_en.json
+Number of tweets before filtering: 19350
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/en/Suède_Belgique_2016-06-22_21h_en.json
+Number of tweets before filtering: 19350
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/fr/Italie_République~d-Irlande_2016-06-22_21h_fr.json
+Number of tweets before filtering: 35830
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_E/fr/Suède_Belgique_2016-06-22_21h_fr.json
+Number of tweets before filtering: 35830
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/ar/Russie_Galles_2016-06-20_21h_ar.json
+Number of tweets before filtering: 25391
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/ar/Slovaquie_Angleterre_2016-06-20_21h_ar.json
+Number of tweets before filtering: 25391
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/en/Russie_Galles_2016-06-20_21h_en.json
+Number of tweets before filtering: 30013
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/en/Slovaquie_Angleterre_2016-06-20_21h_en.json
+Number of tweets before filtering: 30013
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/fr/Russie_Galles_2016-06-20_21h_fr.json
+Number of tweets before filtering: 40242
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_B/fr/Slovaquie_Angleterre_2016-06-20_21h_fr.json
+Number of tweets before filtering: 40242
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/ar/Croatie_Espagne_2016-06-21_21h_ar.json
+Number of tweets before filtering: 26915
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/ar/République-Tchèque_Turquie_2016-06-21_21h_ar.json
+Number of tweets before filtering: 26915
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/en/Croatie_Espagne_2016-06-21_21h_en.json
+Number of tweets before filtering: 28571
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/en/République-Tchèque_Turquie_2016-06-21_21h_en.json
+Number of tweets before filtering: 28571
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/fr/Croatie_Espagne_2016-06-21_21h_fr.json
+Number of tweets before filtering: 40292
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_D/fr/République-Tchèque_Turquie_2016-06-21_21h_fr.json
+Number of tweets before filtering: 40292
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/ar/Hongrie_Portugal_2016-06-22_18h_ar.json
+Number of tweets before filtering: 27132
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/ar/Islande_Autriche_2016-06-22_18h_ar.json
+Number of tweets before filtering: 27132
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/en/Hongrie_Portugal_2016-06-22_18h_en.json
+Number of tweets before filtering: 24025
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/en/Islande_Autriche_2016-06-22_18h_en.json
+Number of tweets before filtering: 24025
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/fr/Hongrie_Portugal_2016-06-22_18h_fr.json
+Number of tweets before filtering: 38565
+Analyzing ../../../hackatal/Tweets/Matchs/eval_euro2016/Groupe_F/fr/Islande_Autriche_2016-06-22_18h_fr.json
+Number of tweets before filtering: 38565
